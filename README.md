@@ -1,7 +1,6 @@
 # Hindi → English Vegetable Translator (Beginner Python Project)
 A super beginner-friendly Python project that converts **Hindi vegetable names → English names** using a clean dictionary-based mapping.  
 Perfect for students learning Python, pandas, and simple language translation concepts.
-![Demo Preview](assets/demo.png)
 ## Features
 -  Hindi → English translation (manual dictionary mapping)  
 -  Clean & simple Python notebook  
